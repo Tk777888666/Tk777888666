@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tk777888666
+- 👋 Hi, I’m @Tejaswa kumar
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Html,css &js
 - 💞️ I’m looking to collaborate on ...
